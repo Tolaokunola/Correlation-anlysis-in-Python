@@ -5,7 +5,7 @@ This project performs a comprehensive statistical and correlation analysis on a 
 
 Project Overview
 
-In the competitive film industry, understanding the financial drivers behind a movie's success is critical. This project walks through the complete data science workflow—from data cleaning and feature engineering to advanced visualization and correlation mapping—to uncover hidden patterns governing film revenue.
+In the competitive film industry, understanding the financial drivers behind a movie's success is critical. This project walks through the complete data science workflow from data cleaning and feature engineering to advanced visualization and correlation mapping to uncover hidden patterns governing film revenue.
 
 Key Findings
 
